@@ -1,0 +1,14 @@
+{
+  "name": "jwt-authentication",
+  "version": "1.0.0",
+  "description": "[Video](https://www.youtube.com/watch?v=6ZCU4QetVTs)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Aaron Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
